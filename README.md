@@ -10,6 +10,10 @@ Este proyecto consiste en una aplicación con **Laravel** en el backend y **Reac
 4. **Definir rutas de API** para el registro, login y logout de usuarios.
 5. **Configurar CORS** para permitir la comunicación con el frontend.
 
+### Rutas:
+![image](https://github.com/user-attachments/assets/d39e310c-f3f6-4b4d-aae4-4b8db8ffd0ea)
+
+
 ### Frontend (React)
 1. **Instalar dependencias**: `pnpm`, `vite`, `react-router-dom`, `axios`, `tailwindcss`.
 2. **Configurar rutas** para las páginas de login y home.
